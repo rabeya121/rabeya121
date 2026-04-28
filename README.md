@@ -23,15 +23,17 @@ Skills: <p align="left">   <img src="https://skillicons.dev/icons?i=js,react,htm
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rabeya121)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rabeya-hridi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/rabeya.hridi.2024)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rabeya121)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rabeya121)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rabeya121&show_icons=true&count_private=true)  
+### 📊 GitHub Stats
+![stats](https://github-readme-stats.vercel.app/api?username=rabeya121&show_icons=true&theme=tokyonight)
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/rabeya121/contributions?format=svg&private=true)  
+![streak](https://streak-stats.demolab.com/?user=rabeya121&theme=tokyonight)
 
-![GitHub metrics](https://metrics.lecoq.io/rabeya121)  
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rabeya121&layout=compact&theme=tokyonight)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=rabeya121)  
+
+### ⚡ Activity Graph
+![graph](https://github-readme-activity-graph.vercel.app/graph?username=rabeya121&theme=tokyo-night)
+
 
