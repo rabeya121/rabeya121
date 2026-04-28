@@ -31,7 +31,7 @@ Skills: <p align="left">   <img src="https://skillicons.dev/icons?i=js,react,htm
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/rabeya121/contributions?format=svg&private=true)  
 
-![Metrics](https://metrics.lecoq.io/rabeya121?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&base.metadata=0&languages=1&isocalendar=1) 
+![GitHub metrics](https://metrics.lecoq.io/rabeya121)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=rabeya121)  
 
