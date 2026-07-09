@@ -1,8 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Rabeya Khatun</h1>
 <h3 align="center">Frontend & MERN Stack Developer</h3>
 
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rabeya%20Hridi&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Frontend%20%26%20MERN%20Stack%20Developer&descAlign=50&descAlignY=65)
-
+![Banner](https://github.com/rabeya121/rabeya121/blob/main/assets/banner.png?raw=true)
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Frontend+Developer;MERN+Stack+Developer;Open+to+Work+%F0%9F%9A%80&font=Fira%20Code&center=true&width=440&height=45&color=6D28D9&vCenter=true&size=22" alt="Typing SVG" />
 </p>
